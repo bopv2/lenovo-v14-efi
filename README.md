@@ -15,7 +15,7 @@ Hello there! This is a Open-Core EFI for the Lenovo V14-ILL or any laptop that h
 | Audio         | ALC230                     | ✅           |
 | SSD (NVME)    | SKHynix_HFM256GDHTNI-87A0B | ✅           |
 | Trackpad      | Synaptics 2B61             | ✅           |
-| HDMI          | ig the graphics            | ✅           |
+| HDMI          | Ice-Lake does not support HDMI (only DisplayPort)            | ❌           |
 
 ## Features
 
